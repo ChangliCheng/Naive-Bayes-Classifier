@@ -1,4 +1,3 @@
-
 #Install R package for Naive Bayes
 if (!require("e1071")) {
   install.packages("e1071")
